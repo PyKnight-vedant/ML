@@ -1,0 +1,15 @@
+
+DECISIONTREE
+
+Mean: 4.437801449873733
+Standard deviation: 1.0648482652866398
+
+LINEAR
+
+Mean: 5.042175107849556
+Standard deviation: 1.0577831604081473
+
+RandomForest
+
+Mean: 3.299920959879249
+Standard deviation: 0.6921881304088406
