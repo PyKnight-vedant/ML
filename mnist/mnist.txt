@@ -1,0 +1,12 @@
+
+WHAT IS MNIST?
+
+=>Set of images of digits written by high schol students and employees of US Census Bureau.
+
+=>All images are labelled with the respective digit they represent
+
+=>MNIST is the hello world of the machine learning
+
+=>There are 70,000 images and each image has 784 features.
+
+=>Each image is 28x28 pixels and each feature simply represtns one pixels intensity from 0(white) to 255(black)
