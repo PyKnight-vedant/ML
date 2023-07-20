@@ -1,1 +1,0 @@
-In this video we saw how an ML algorith works end to end.
